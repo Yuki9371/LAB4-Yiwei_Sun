@@ -1,0 +1,4 @@
+res://node_3d.tscn
+res://character_body_3d.gd
+res://scene/character_body_3d.tscn
+res://script/spring_arm_3d.gd

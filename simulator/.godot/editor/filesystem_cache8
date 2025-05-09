@@ -1,0 +1,53 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1746757833
+360_F_25829597_nzueNmnDHuAVVRPirrVdeeaLNmQqZqVD.jpg::CompressedTexture2D::2847906630458779164::1746733191::1746733282::1::::<><>::
+character_body_3d.gd::GDScript::-1::1746733192::0::1::::<>CharacterBody3D<>::
+icon.svg::CompressedTexture2D::5276226991901047484::1746733192::1746733282::1::::<><>::
+node_3d.tscn::PackedScene::6468413817733566798::1746757650::0::1::::<><>::res://character_body_3d.gd<>uid://bgtsuuw6a67f1::::res://360_F_25829597_nzueNmnDHuAVVRPirrVdeeaLNmQqZqVD.jpg<>uid://ck6x3hcnxcwy5::::res://FreeSample/textures/T_Buildings_002Diffuse- 4K.png<>uid://b6orayvbsd8mt::::res://FreeSample/textures/T_Buildings_001Diffuse- 4K.png<>uid://b6ytooi4i03dg::::res://FreeSample/textures/BAKE_Buildings_001Emissive- 4K.png<>uid://dx1a4c3sh4t4s::::res://FreeSample/textures/T_PropsDiffuse- 4K.png<>uid://d1hel6cphnv1p::::res://music/on-the-road-to-the-eighties_loop1-177567.mp3
+::res://addons/::1746733191
+::res://addons/anthonyec.camera_preview/::1746733282
+GuiResizerTopLeft.svg::CompressedTexture2D::3725702983604658859::1746733191::1746733282::1::::<><>::
+GuiResizerTopRight.svg::CompressedTexture2D::1815302168263048502::1746733191::1746733282::1::::<><>::
+Pin.svg::CompressedTexture2D::8206140417864082802::1746733191::1746733282::1::::<><>::
+plugin.cfg::TextFile::-1::1746733191::0::1::::<><>::
+plugin.gd::GDScript::-1::1746733191::0::1::::<>EditorPlugin<>::
+preview.gd::GDScript::-1::1746733191::0::1::::CameraPreview<>Control<>::
+preview.tscn::PackedScene::48940320948976937::1746733192::0::1::::<><>::res://addons/anthonyec.camera_preview/preview.gd<>uid://do6d60od41vmg::::res://addons/anthonyec.camera_preview/Pin.svg<>uid://btc01wc11tiid::::res://addons/anthonyec.camera_preview/GuiResizerTopLeft.svg<>uid://04l05jxuyt7k::::res://addons/anthonyec.camera_preview/GuiResizerTopRight.svg
+::res://FreeSample/::1746753963
+Advertising_5.fbx::PackedScene::4516198412200726135::1746753946::1746753963::1::::<><>::uid://dx1a4c3sh4t4s::::res://FreeSample/textures/T_PropsDiffuse- 4K.png
+Advertising_6.fbx::PackedScene::1335031180061837254::1746753946::1746753963::1::::<><>::uid://dx1a4c3sh4t4s::::res://FreeSample/textures/T_PropsDiffuse- 4K.png
+Advertising_7.fbx::PackedScene::4928290943084154908::1746753946::1746753963::1::::<><>::uid://dx1a4c3sh4t4s::::res://FreeSample/textures/T_PropsDiffuse- 4K.png
+BuildingBlock_1.fbx::PackedScene::5523376051358826098::1746753947::1746753962::1::::<><>::uid://ck6x3hcnxcwy5::::res://FreeSample/textures/T_Buildings_002Diffuse- 4K.png
+BuildingBlock_2.fbx::PackedScene::2184281216807428180::1746753947::1746753962::1::::<><>::uid://ck6x3hcnxcwy5::::res://FreeSample/textures/T_Buildings_002Diffuse- 4K.png
+BuildingBlock_18.fbx::PackedScene::3698611133233344709::1746753947::1746753961::1::::<><>::uid://b6orayvbsd8mt::::res://FreeSample/textures/T_Buildings_001Diffuse- 4K.png<>uid://b6ytooi4i03dg::::res://FreeSample/textures/BAKE_Buildings_001Emissive- 4K.png
+BuildingBlock_19.fbx::PackedScene::4105808020691070002::1746753947::1746753961::1::::<><>::uid://b6orayvbsd8mt::::res://FreeSample/textures/T_Buildings_001Diffuse- 4K.png<>uid://b6ytooi4i03dg::::res://FreeSample/textures/BAKE_Buildings_001Emissive- 4K.png
+BuildingBlock_24.fbx::PackedScene::1241890370169378880::1746753947::1746753960::1::::<><>::uid://b6orayvbsd8mt::::res://FreeSample/textures/T_Buildings_001Diffuse- 4K.png<>uid://b6ytooi4i03dg::::res://FreeSample/textures/BAKE_Buildings_001Emissive- 4K.png
+Building_3.fbx::PackedScene::6063632042816588872::1746753948::1746753960::1::::<><>::uid://ck6x3hcnxcwy5::::res://FreeSample/textures/T_Buildings_002Diffuse- 4K.png
+Road_Chunk_5.fbx::PackedScene::2525670754115378445::1746753948::1746753959::1::::<><>::uid://divlitklum8rk::::res://FreeSample/textures/T_RoadsDiffuse- 4K.png
+SateliteDish.fbx::PackedScene::7936570452802052297::1746753948::1746753959::1::::<><>::uid://dx1a4c3sh4t4s::::res://FreeSample/textures/T_PropsDiffuse- 4K.png
+Sidewalk_Chunk_2.fbx::PackedScene::8534141287165247562::1746753948::1746753958::1::::<><>::uid://divlitklum8rk::::res://FreeSample/textures/T_RoadsDiffuse- 4K.png
+Sidewalk_Tile_1.fbx::PackedScene::697643224663373551::1746753948::1746753958::1::::<><>::uid://divlitklum8rk::::res://FreeSample/textures/T_RoadsDiffuse- 4K.png
+::res://FreeSample/Textures/::1746753964
+BAKE_Buildings_001Emissive- 4K.png::CompressedTexture2D::4612999275561441348::1746753948::1746753964::1::::<><>::
+BAKE_Buildings_002Emissive- 4K.png::CompressedTexture2D::5550358276455674374::1746753949::1746753953::1::::<><>::
+BAKE_PropsEmissive- 4K.png::CompressedTexture2D::8727174688359735074::1746753949::1746753953::1::::<><>::
+BAKE_RoadsEmissive- 4K.png::CompressedTexture2D::7302679883262040922::1746753949::1746753953::1::::<><>::
+T_Buildings_001Diffuse- 4K.png::CompressedTexture2D::4592209606976913863::1746753949::1746753964::1::::<><>::
+T_Buildings_002Diffuse- 4K.png::CompressedTexture2D::5540172378579905734::1746753949::1746753964::1::::<><>::
+T_PropsDiffuse- 4K.png::CompressedTexture2D::8827331213512422864::1746753950::1746753964::1::::<><>::
+T_RoadsDiffuse- 4K.png::CompressedTexture2D::7764807920209211472::1746753950::1746753964::1::::<><>::
+VoxelCity_CompositeBuildings_Optimized-0_diffuse.png::CompressedTexture2D::328090617744439452::1746753950::1746753957::1::::<><>::
+VoxelCity_CompositeBuildings_Optimized-2_diffuse.png::CompressedTexture2D::6279891830140196998::1746753950::1746753957::1::::<><>::
+VoxelCity_CompositeBuildings_Optimized-4_Color.png::CompressedTexture2D::5550525511417744688::1746753950::1746753954::1::::<><>::
+VoxelCity_CompositeBuildings_Optimized-4_diffuse.png::CompressedTexture2D::8618409729884506283::1746753950::1746753957::1::::<><>::
+::res://music/::1746756872
+on-the-road-to-the-eighties_loop1-177567.mp3::AudioStreamMP3::8998886773655468431::1746756832::1746756872::1::::<><>::
+::res://tile/::1746757850
+::res://tile/Tiles136D_2K-PNG/::1746757851
+Tiles136D.png::CompressedTexture2D::5273096668690005621::1746757851::1746757876::1::::<><>::
+Tiles136D_2K-PNG_AmbientOcclusion.png::CompressedTexture2D::3343728263377690425::1746757850::1746757863::1::::<><>::
+Tiles136D_2K-PNG_Color.png::CompressedTexture2D::837699072823633671::1746757851::1746757896::1::::<><>::
+Tiles136D_2K-PNG_Displacement.png::CompressedTexture2D::4561650337118836341::1746757851::1746757863::1::::<><>::
+Tiles136D_2K-PNG_NormalDX.png::CompressedTexture2D::8836818906200083675::1746757851::1746757882::1::::<><>::
+Tiles136D_2K-PNG_NormalGL.png::CompressedTexture2D::8443043717783872357::1746757851::1746757863::1::::<><>::
+Tiles136D_2K-PNG_Roughness.png::CompressedTexture2D::7127773750491508214::1746757851::1746757863::1::::<><>::
